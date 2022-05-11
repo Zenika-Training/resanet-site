@@ -1,0 +1,11 @@
+{
+  "name": "resanet-site",
+  "version": "1.0.0",
+  "description": "Site vitrine de resanet",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@34.163.174.3:2222/resanet/site.git"
+  }
+}
