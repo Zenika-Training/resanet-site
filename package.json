@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "Site vitrine de resanet",
   "scripts": {
+    "start": "parcel src/index.html"
   },
   "repository": {
     "type": "git",
     "url": "ssh://git@34.163.174.3:2222/resanet/site.git"
+  },
+  "dependencies": {
+    "parcel": "^2.5.0"
   }
 }
